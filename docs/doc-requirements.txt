@@ -3,3 +3,6 @@ sphinx-rtd-theme
 nbsphinx
 sphinxcontrib_github_alt
 myst_parser
+Send2Trash
+prometheus_client
+myst-parser
